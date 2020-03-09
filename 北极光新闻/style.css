@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style type="text/css">
+body {
+	background-color: #FCF;
+}
+</style>
+</head>
+
+<body>
+<p align="center" style="color: #FF0000; font-size: 36px;">静夜思</p>
+<p align="center"><a href="1-2.html">李白</a></p><hr size="3" color="#FF0000"/>
+<p style="text-align: center">窗前明月光，</p>
+<p style="font-family: '方正舒体'; text-align: center;">疑是地上霜。</p>
+<p style="font-family: '华文彩云'; text-align: center; color: #0F0;">举头望明月，</p>
+<p style="font-family: '方正舒体'; text-align: center;">低头思故乡。</p>
+</body>
+</html>
+low:ellipsis;
+	background-image:url(../picture/dot.PNG);
+	background-repeat:no-repeat;
+	padding-left:25px;
+}
+#main3-1 ul,#main3-2 ul{
+	background-color:;
+	width:500px;
+	padding:0px;}
+	
+#main4{
+	width:1100px;
+	height:500px;
+}
+#main5-1,#main5-2{
+	height:350px;
+	width:550px;
+	float:left;
+}
+#main5-1 li,#main5-2 li{
+	font-size:18px;
+	line-height:32px;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	background-image:url(../../%E5%86%9C%E8%BF%90%E4%BC%9A%C2%B7/picture/dot.PNG);
+	background-repeat:no-repeat;
+	padding-left:25px;}
+#main5-1 ul,#main5-2 ul{
+	background-color:;
+	width:500px;
+	padding:0px;}	
+	
+td{
+	text-align:center;
+}
+
+#main7{
+	width:1100px;
+	height:500px;
+}
+#footer{
+	text-align:center;
+	padding-left:40px;
+}
+#footer span{
+	padding:10px;
+}
+
+	
